@@ -21,9 +21,9 @@ Download the latest release from the releases page.
 ## Usage
 
 1. Run `AwesomePythonMacro.exe`
-2. Press F9 to start recording
+2. Press Ctrl + Shift + F9 to start recording
 3. Perform your actions
-4. Press F10 to stop recording
+4. Press Ctrl + Shift + F10 to stop recording
 5. Save and replay your macro
 
 ## Important Notes
